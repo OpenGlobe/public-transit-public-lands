@@ -11,7 +11,7 @@ Identifying the best strategic public transportation options to and from nationa
 
 Here are a few examples:
 
-[Washington, D.C. to Piscataway Park](https://goo.gl/maps/dksysQbgY1k) (total travel time: 1 hr 29 minutes, by bus).
-[Albuquerque, N.M. to Petroglyph National Monument](https://goo.gl/maps/YE1ytxM41iu) (total travel time: 41 mins, by bus and walking)
-[Atlanta, GA to Whitewater Creek Trails](https://goo.gl/maps/EbCcpNnqDoq) (total travel time: 1 hr 5 min, 28 mins walking)
+- [Washington, D.C. to Piscataway Park](https://goo.gl/maps/dksysQbgY1k) (total travel time: 1 hr 29 minutes, by bus).
+- [Albuquerque, N.M. to Petroglyph National Monument](https://goo.gl/maps/YE1ytxM41iu) (total travel time: 41 mins, by bus and walking)
+- [Atlanta, GA to Whitewater Creek Trails](https://goo.gl/maps/EbCcpNnqDoq) (total travel time: 1 hr 5 min, 28 mins walking)
 
